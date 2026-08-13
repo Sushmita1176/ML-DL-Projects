@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification with a LeNet-Style CNN
+# CIFAR-10 Image Classification with CNN-LeNet
 
 A convolutional neural network built with TensorFlow/Keras to classify images from the CIFAR-10 dataset into 10 categories (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
 
